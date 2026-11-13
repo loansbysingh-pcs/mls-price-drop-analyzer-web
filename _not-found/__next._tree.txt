@@ -2,4 +2,4 @@
 :HL["/mls-price-drop-analyzer-web/_next/static/css/f87fbbb181b7cd11.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"P8PSRJz5W3LHyVNcDKA0x","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"qQx9vlcSjCJY--vqUsw7-","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
